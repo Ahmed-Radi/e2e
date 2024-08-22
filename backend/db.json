@@ -1,0 +1,304 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Headphones",
+      "description": "Noise-canceling over-ear headphones with deep bass",
+      "price": 75
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "description": "Lightweight laptop with 8GB RAM and 256GB SSD",
+      "price": 150
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "description": "Wireless in-ear headphones with high sound quality",
+      "price": 50
+    },
+    {
+      "id": 4,
+      "name": "Camera",
+      "description": "Compact digital camera with 20MP resolution",
+      "price": 75
+    },
+    {
+      "id": 5,
+      "name": "Laptop",
+      "description": "High-performance laptop with 16GB RAM and 512GB SSD",
+      "price": 300
+    },
+    {
+      "id": 6,
+      "name": "Tablet",
+      "description": "10-inch tablet with 128GB storage and Wi-Fi support",
+      "price": 75
+    },
+    {
+      "id": 7,
+      "name": "Camera",
+      "description": "DSLR camera with 24MP sensor and 4K video recording",
+      "price": 200
+    },
+    {
+      "id": 8,
+      "name": "Smartphone",
+      "description": "5.5-inch smartphone with 64GB storage and dual camera",
+      "price": 50
+    },
+    {
+      "id": 9,
+      "name": "Watch",
+      "description": "Stylish analog watch with leather strap",
+      "price": 50
+    },
+    {
+      "id": 10,
+      "name": "Smart TV",
+      "description": "55-inch 4K Smart TV with HDR support",
+      "price": 200
+    },
+    {
+      "id": 11,
+      "name": "Laptop",
+      "description": "Slim laptop with 14-inch display and 128GB SSD",
+      "price": 50
+    },
+    {
+      "id": 12,
+      "name": "Gaming Console",
+      "description": "Next-gen gaming console with 4K support",
+      "price": 150
+    },
+    {
+      "id": 13,
+      "name": "Headphones",
+      "description": "Over-ear headphones with immersive surround sound",
+      "price": 100
+    },
+    {
+      "id": 14,
+      "name": "Headphones",
+      "description": "Limited edition headphones with premium design",
+      "price": 50
+    },
+    {
+      "id": 15,
+      "name": "Tablet",
+      "description": "8-inch tablet with 64GB storage and LTE support",
+      "price": 200
+    },
+    {
+      "id": 16,
+      "name": "Watch",
+      "description": "Smartwatch with fitness tracking and heart rate monitor",
+      "price": 300
+    },
+    {
+      "id": 17,
+      "name": "Headphones",
+      "description": "Bluetooth headphones with active noise cancellation",
+      "price": 200
+    },
+    {
+      "id": 18,
+      "name": "Smartphone",
+      "description": "6.1-inch smartphone with AMOLED display and 128GB storage",
+      "price": 75
+    },
+    {
+      "id": 19,
+      "name": "Tablet",
+      "description": "High-end tablet with 256GB storage and stylus support",
+      "price": 300
+    },
+    {
+      "id": 20,
+      "name": "Tablet",
+      "description": "Large 12-inch tablet with 4K display and Wi-Fi",
+      "price": 150
+    },
+    {
+      "id": 21,
+      "name": "Tablet",
+      "description": "Affordable tablet with 64GB storage and quad-core processor",
+      "price": 75
+    },
+    {
+      "id": 22,
+      "name": "Headphones",
+      "description": "High-fidelity headphones with detachable cable",
+      "price": 100
+    },
+    {
+      "id": 23,
+      "name": "Camera",
+      "description": "Mirrorless camera with 30MP sensor and 4K video",
+      "price": 300
+    },
+    {
+      "id": 24,
+      "name": "Laptop",
+      "description": "Gaming laptop with 16GB RAM and RTX graphics",
+      "price": 250
+    },
+    {
+      "id": 25,
+      "name": "Watch",
+      "description": "Luxury watch with sapphire crystal and water resistance",
+      "price": 100
+    },
+    {
+      "id": 26,
+      "name": "Gaming Console",
+      "description": "Compact gaming console with 1TB storage and VR support",
+      "price": 100
+    },
+    {
+      "id": 27,
+      "name": "Camera",
+      "description": "Entry-level camera with 18MP sensor and HD video",
+      "price": 75
+    },
+    {
+      "id": 28,
+      "name": "Smartphone",
+      "description": "Flagship smartphone with 256GB storage and triple camera",
+      "price": 150
+    },
+    {
+      "id": 29,
+      "name": "Laptop",
+      "description": "Workstation laptop with 32GB RAM and 1TB SSD",
+      "price": 300
+    },
+    {
+      "id": 30,
+      "name": "Headphones",
+      "description": "Premium headphones with noise isolation and rich bass",
+      "price": 200
+    },
+    {
+      "id": 31,
+      "name": "Camera",
+      "description": "Professional-grade camera with 50MP sensor and 8K video",
+      "price": 300
+    },
+    {
+      "id": 32,
+      "name": "Smart TV",
+      "description": "Curved 65-inch 4K Smart TV with Dolby Atmos",
+      "price": 100
+    },
+    {
+      "id": 33,
+      "name": "Gaming Console",
+      "description": "High-performance gaming console with 2TB storage",
+      "price": 300
+    },
+    {
+      "id": 34,
+      "name": "Headphones",
+      "description": "On-ear headphones with clear sound and foldable design",
+      "price": 100
+    },
+    {
+      "id": 35,
+      "name": "Headphones",
+      "description": "Lightweight headphones with long battery life",
+      "price": 75
+    },
+    {
+      "id": 36,
+      "name": "Camera",
+      "description": "Point-and-shoot camera with 16MP sensor and zoom lens",
+      "price": 300
+    },
+    {
+      "id": 37,
+      "name": "Camera",
+      "description": "Compact camera with 18MP sensor and wide-angle lens",
+      "price": 75
+    },
+    {
+      "id": 38,
+      "name": "Smartphone",
+      "description": "Budget smartphone with 32GB storage and HD display",
+      "price": 100
+    },
+    {
+      "id": 39,
+      "name": "Smart TV",
+      "description": "OLED 55-inch Smart TV with voice control",
+      "price": 250
+    },
+    {
+      "id": 40,
+      "name": "Gaming Console",
+      "description": "Retro gaming console with preloaded classic games",
+      "price": 300
+    },
+    {
+      "id": 41,
+      "name": "Camera",
+      "description": "Film camera with manual controls and interchangeable lenses",
+      "price": 100
+    },
+    {
+      "id": 42,
+      "name": "Smartphone",
+      "description": "Mid-range smartphone with 128GB storage and fast charging",
+      "price": 75
+    },
+    {
+      "id": 43,
+      "name": "Smart TV",
+      "description": "LED Smart TV with built-in streaming apps",
+      "price": 75
+    },
+    {
+      "id": 44,
+      "name": "Tablet",
+      "description": "Pro tablet with 11-inch display and stylus support",
+      "price": 200
+    },
+    {
+      "id": 45,
+      "name": "Laptop",
+      "description": "Ultrabook with 13-inch display and all-day battery",
+      "price": 250
+    },
+    {
+      "id": 46,
+      "name": "Laptop",
+      "description": "Budget laptop with 4GB RAM and 128GB storage",
+      "price": 50
+    },
+    {
+      "id": 47,
+      "name": "Smart TV",
+      "description": "Large 75-inch 4K Smart TV with Alexa compatibility",
+      "price": 250
+    },
+    {
+      "id": 48,
+      "name": "Gaming Console",
+      "description": "Portable gaming console with 7-inch display",
+      "price": 50
+    },
+    {
+      "id": 49,
+      "name": "Gaming Console",
+      "description": "Advanced gaming console with 8K resolution support",
+      "price": 75
+    },
+    {
+      "id": 50,
+      "name": "Smart Watch",
+      "description": "Advanced gaming console with 8K resolution support",
+      "price": 75
+    }
+  ]
+}
